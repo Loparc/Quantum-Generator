@@ -1,5 +1,5 @@
 # Quantum-Generator
-Thesis for the Computer Science degree at the Facultat di'Informàtica de Barcelona (FIB - UPC)
+Thesis for the Computer Science degree at the Facultat d'Informàtica de Barcelona (FIB - UPC)
 
 
 ## Purpose of the project
